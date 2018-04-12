@@ -1,0 +1,26 @@
+.container {
+    position: relative;
+}
+
+.center {
+    margin:250px auto;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #2F80ED;
+    color: #fff;
+    font-family: Arial,Verdana;
+
+}
+
+#big{
+  padding-top: 10px;
+  font-size: 25px;
+}
+
+#time{
+  margin-top: -20px;
+  font-size: 40px;
+  font-style: normal;
+}
